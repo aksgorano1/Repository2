@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ssandabot",
+  "private_key_id": "f92fb6515b27a7e06aab38846e877bd4dee8e764",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCXqlnI4YzMQNkB\nSVX29v3HkM1Wcqvm+jmDAg9UrObxgllJdSyXyESuiKguNMVmwaeKUo0/J6DkuT/3\n1FeRjcLsavnnXwHp3VO2wdZenhGJ/VTHOlMOpogX0C7AhV870CvwDi8zGB2x9d4b\nRR8VBIPp6NtayoVGIxsiIZVe+Pxo+0N7b2uihkWGswsQqrxW5MRX8se8CmX/gRtD\nticjlrsn+Rs9S8N0u5YzmL2eIkDbQllTSEqeEjUx2SQQ7YggP/psvEEtVEir0y5t\nUc0aGIZUXH9n7J7yLKbM5xWSXpglLxqS+6wv8xvHPBFl32DCMMht5P8lFW2sBeUA\n3QNdd5fPAgMBAAECggEASAlJi/hVf85tRAcpJZw6/cbxQNZGf/bpyif4UCevqZZY\nAmP9QjqFJMET4J6ABEaG5VRAcnbIHNtAXt4kmaXTp6dH+3VM21+cm3mF8Hrzqa8B\nzX8OZC8FBQqEqjyu9yHxPJwAHyydLiGx1RIHqVvzq+5GAeGfW6jhAl0hLXLlsJas\nJa0c8qE1ipbR12IjGOiaJE71kVvWorUuv8t90VTCrLNdGUPQUXYbhDgq5/ke9OTK\nXRspT9KxGLoLO81uPCvE4h78k1kCxwVxau7Yf5/uAkT23UiGiHDng+IRTFoaU/pV\n75M07+v0u60qx7K82TmzEx/cZT0dAp3qxBp/jKv8gQKBgQDNgs0oN5yyzC3KwdNe\neEA9Ukdu9K7kaOAEqQIkPwidL1Slnkgr8LY49WfVjFMdMf5BPwVMHQDc86NZKTTw\n8vArL95++26R6NJj9ioTzgabbgKSiatDDxs6e19X1k2qHXiwAv6JllyAa4bBYinz\nEc+39U38SZR1aef8CmftgD/OVwKBgQC87Qs/RljC/UOvYY88wDdJRJ/AdzXOk/dU\nq/z+xiM8jYw7npyc7uGp31pt00XWolOxbTvmy1ChPrXsrLMME+Y0DL1mMoJh0qj0\nLM6csJkTWCYBYIe51Muu3ImbRa1DtU0yn3DT4s7z+/bKBS0zKqJcfOh3d1rKmam9\nyTbhkM2nSQKBgBdFUW/VZEQGxMSp0AJpgXSwJXCV+lvY2E0OyjRKgvIxktcyJh/7\noNawSzKuMhcjOxQuS65Dtn5OhFerR9hk2fc582rTk8Cn6XLyQ+98K9lbyqTHPAJa\n6o1jvPcYSDEUJz9fB22S/iR4iIjLUc65XJkLCOqhdlMZS/CJSR1moVL/AoGBAJlF\nsrc96isfb7csbhm6U+AkRXrO/B9BWgoekl1cACBTMe74ilSjVP8NDn9FRUaRYVbz\nqQJf9mUqzEtb/NKSnlOh9lKgLbkRQDMA2wqyFy5jeEnrt5Fi+3A8yYLoL15cC2pD\ngjTUsFOvGhPhyT7WmuxwBeVONqFhsx0ezmCHquDJAoGBALSpu7vmViLqkfp+HCRV\nfMpBjBS9SsITWdjbc4tXbVf1OJgwBchPmbimTsBys3TkyeFKZ7NdxBddXA5FRTNN\nN5aBF1uqd2f1l4rG+Cjcw9kyM+iJj1CM34/h/eC1E5mcezdjFhSf6ZfSDZKD9vAW\n4zu6q20UEJKQzXcyo06da2TW\n-----END PRIVATE KEY-----\n",
+  "client_email": "ssandabot@ssandabot.iam.gserviceaccount.com",
+  "client_id": "105138483309350610141",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ssandabot%40ssandabot.iam.gserviceaccount.com"
+}
